@@ -17,9 +17,13 @@ main{
     height: 100%;
     display: flex;
     flex-wrap: wrap;
-    background-image: url("../img/background.jpg");
+    background-image: url("../img/build2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,0.6227678571428572) 0%, rgba(253,187,45,0.869266456582633) 100%);
+    
 }
 #sec-1 {
     
